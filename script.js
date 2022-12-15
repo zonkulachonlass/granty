@@ -24,9 +24,9 @@ randomlinks[21]="https://granty.ga/Adams20.png";
 randomlinks[22]="https://grantcadams.com/";
 randomlinks[23]="https://grantcadams.com/drinking-with-grant";
 randomlinks[24]="https://grantcadams.com/bio-1";
-randomlinks[25]="https://granty.ga/Adams21.png";
-randomlinks[26]="https://granty.ga/Adams22.png";
-randomlinks[27]="https://granty.ga/Adams23.png";
+randomlinks[25]="https://granty.ga/Adams21.jpg";
+randomlinks[26]="https://granty.ga/Adams22.jpg";
+randomlinks[27]="https://granty.ga/Adams23.png.webp";
 
 function randomlink(){
   window.open(randomlinks[Math.floor(Math.random()*randomlinks.length)]);
