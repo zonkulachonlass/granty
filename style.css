@@ -4,3 +4,16 @@ body {
   background-size: 300px 100px;
   text-align: center;
 }
+.button{
+  background-color: #c5a4da; 
+  color: #160029; 
+  border: 2px solid #6c3d5d;
+  transition-duration: 0.4s;
+  border-radius: 4px;
+  font-size: 24px;
+  font-family: "Times New Roman";
+}
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
