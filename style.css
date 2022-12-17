@@ -1,5 +1,5 @@
 body {
-  background-image: url('granty.png');
+  background-image: url("https://grantiest.ga/granty.png");
   color: red;
   background-size: 300px 100px;
   text-align: center;
@@ -16,4 +16,16 @@ body {
 .button:hover {
   background-color: #4CAF50; /* Green */
   color: white;
+}
+.button2:hover {
+  background-color: #4CAF50;
+}
+.button2{
+  background:transparent;
+  border:none;
+  outline:none;
+  display:block;
+  height:2px;
+  width:50px;
+  cursor:pointer;
 }
