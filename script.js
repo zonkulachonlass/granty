@@ -1,3 +1,6 @@
+var otherlink = [];
+otherlink[0] = "https://grantiest.ga/index2.html";
+
 var randomlinks = [];
 randomlinks[0] = "https://grantiest.ga/granty.png";
 randomlinks[1] = "https://grantiest.ga/grant.png";
@@ -33,5 +36,5 @@ function randomlink() {
 }
 
 function link() {
-  window.open(randomlinks[27])
+  window.open(otherlink[0])
 }
